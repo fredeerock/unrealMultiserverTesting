@@ -1,5 +1,5 @@
 # Unreal Multiuser Session Commands
-These commands will allow someone to start an Unreal Multiuser server and then join the session from an editor and from a render node. Just run 1 command after the other in a PowerShell window.
+These commands will allow someone to start an Unreal Multiuser server and then join the session from an editor and from a render node. Just run 1 command after the other in a PowerShell window. This assumes that there's a level named "Main" and that there's a project named "gitSwitchboard". 
 
 ## Simplified
 
