@@ -1,6 +1,7 @@
 # Unreal Multiuser Session Commands
+These commands will allow someone to start an Unreal Multiuser server and then join the session from an editor and from a render node. 
 
-## Simpified
+## Simplified
 
 ### Multiuser Server
 ```powershell
